@@ -100,3 +100,7 @@ INSERT INTO products (name, price, rating, features) VALUES
 ## License
 
 This project is open-source under the MIT License.
+
+## Links
+
+- [RAG](https://mohammedjassimjasm.wixsite.com/blog/post/table-augmented-generation-tag)

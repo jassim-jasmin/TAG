@@ -104,4 +104,4 @@ This project is open-source under the MIT License.
 
 ## Links
 
-- [RAG](https://mohammedjassimjasm.wixsite.com/blog/post/table-augmented-generation-tag)
+- [TAG](https://mohammedjassimjasm.wixsite.com/blog/post/table-augmented-generation-tag)

@@ -11,9 +11,8 @@ This project demonstrates how to implement **Table-Augmented Generation (TAG)** 
 4. [Setup MySQL Database](#setup-mysql-database)
 5. [How It Works](#how-it-works)
 6. [Optimizations](#optimizations)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Links](#Links)
+7. [License](#license)
+8. [Links](#Links)
 
 ---
 

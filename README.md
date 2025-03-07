@@ -13,6 +13,7 @@ This project demonstrates how to implement **Table-Augmented Generation (TAG)** 
 6. [Optimizations](#optimizations)
 7. [Contributing](#contributing)
 8. [License](#license)
+9. [Links](#Links)
 
 ---
 
